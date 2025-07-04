@@ -1,8 +1,8 @@
 # Oleksandr Roda
 
-## 👨‍💻 Fullstack Developer
+## Fullstack Developer
 
-### 💡 About Me
+### About Me
 
 Living in Bremen, studying to become a fullstack developer.  
 My goal is to switch from physical factory work to IT by the age of 30.  
@@ -13,7 +13,7 @@ I love programming, believe in the power of small steps, and focus on frontend a
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 - HTML, CSS (Flexbox)
 - JavaScript (ES6+), DOM
@@ -36,7 +36,7 @@ echo "📚 Pulling motivation from internal storage..."
 sudo git clone https://github.com/eXeczdeveth/self-discipline.git /home/user/mindset
 
 echo "⏳ Launching Pomodoro engine..."
-sudo ./mindset/start-pomodoro.sh --duration=25m
+sudo ./mindset/start-pomodoro.sh --duration=30m
 
 echo "💾 Saving progress to localStorage..."
 sudo cp brain/knowledge.json ~/Projects/it-career-track/
@@ -44,13 +44,15 @@ sudo cp brain/knowledge.json ~/Projects/it-career-track/
 echo "✅ All systems go. No excuses. Just action."
 ```
 
-### 🌐 Languages
+### Languages
 
 - English: A2+ (goal — B1 by 2026)
 - German: A2-
 - Polish: A2+
 
----
+### Education
+
+- [Best school in the world](https://rs.school/)
 
 ### 📬 Contacts
 
