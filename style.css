@@ -196,3 +196,10 @@ ul {
   align-items: center;
   width: 100%;
 }
+
+.gitlink {
+  font-style: italic;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #333;
+}
